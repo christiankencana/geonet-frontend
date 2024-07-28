@@ -5,7 +5,7 @@
     <div class="container-fluid flex-grow-1">
       <div class="row h-100">
         <!-- <Sidebar /> -->
-        <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4 my-3 content-wrapper">
+        <main class=" my-3 content-wrapper">
           <router-view></router-view>
         </main>
       </div>
